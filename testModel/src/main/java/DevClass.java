@@ -1,3 +1,3 @@
 public class DevClass {
-    public static String STATUS = "RELEASE";
+    public static String STATUS = "DEV";
 }
